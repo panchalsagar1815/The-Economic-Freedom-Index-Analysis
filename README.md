@@ -1,0 +1,1 @@
+# The-Economic-Freedom-Index-Analysis
