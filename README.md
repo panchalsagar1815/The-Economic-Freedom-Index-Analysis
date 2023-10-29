@@ -7,3 +7,4 @@ Our aim is to provide valuable insights into the economic conditions and regulat
 
 By delving into these factors and their interplay, we aim to offer a nuanced perspective on how governments' policies and practices influence economic freedom, and subsequently, the economic well-being of their citizens. This project will contribute to a deeper understanding of the global economic landscape and help policymakers, researchers, and analysts make informed decisions to promote economic growth and prosperity.
 
+In summary, the "Economic Freedom Index Analysis" project is a valuable resource for those interested in the intricate relationship between economic freedom and various socio-economic factors, providing a foundation for data-driven insights and informed decision-making on a global scale.
